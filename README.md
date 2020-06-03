@@ -18,3 +18,5 @@ To make is easier for user I have implemented GUI using pyqt5
 2.<i> After downloading extract all the files to one folder ,if u have cloned then u can skip this step</i><br>
 3.<i> Open the project folder with any python IDE and the find file named app.py</i><br>
 4.<i> After finding it open it and run it <b>before runing make sure all the basic requirements are fullfield</b></i><br><br>
+
+**Note : While compressing single image file you will be asked for the quality of the image .While giving this quality don't excced more than width of you device as you compress output image is displayed through message box if u exceed your device width then you may not find ok button as it whould be out of your display**
