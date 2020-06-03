@@ -1,0 +1,38 @@
+$$$ Chapter 1
+I Love you.
+abcd
+<atf>
+When we are going home, sky
+
+don't know
+<atf>
+$$$ chapter 2
+Running Ruby
+
+Test to see whether Ruby is running on your computer by
+typing the following at a shell or command prompt:
+
+<atf>
+Running the Ruby Interpreter
+(* also *)
+Usage:
+    ruby [switches] [--] [program filename] [arguments]
+Switches (or command-line options):
+<atf>
+$$$ chapter 3
+-i[extension]
+    Edit ARGV files in place (make backup if extension supplied).
+<atf>
+-Kkcode
+    Specify the character set. See Table 16.
+
+<atf>
+$$$ chapter 4
+-rlibrary
+    Require the library before executing your script.
+
+<atf>
+-v
+    Print version number, then turn on verbose mode (com-
+    pare --version).
+<atf>
