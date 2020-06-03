@@ -4,7 +4,7 @@ In this project i have implemented text and image compression using Python Progr
 For text data compression I have used <b>Huffman coding</b> which is lossless type of data compersion.you can find this code in huff.py
 For Image compersion I have used pillow's inbulit function and filter which acts as lossy data comperssion u can find this code in img.py
 To make is easier for user I have implemented GUI using pyqt5
-<b>One of the main feature of this Project is u can use it to compress multiple text or multiple images easily<b>
+<b>One of the main feature of this Project is you can use it to compress multiple text files or multiple images easily<b>
 
 
 <b>Basic requirement to run this project are</b><br>
